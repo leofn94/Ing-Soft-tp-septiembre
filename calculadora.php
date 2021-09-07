@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Operadores Aritm&eacute;meticos</title>
+		<title>Calculadora</title>
 	</head>
 	<body>
 		<h1>Calculadora</h1>
@@ -9,12 +9,10 @@
 			<select name="operador">
 				<option value="suma">Suma</option>
 				<option value="resta">Resta</option>
-				<option value="multiplicacion">Multiplicaci&oacute;n</option>
-				<option value="division">Divisi&oacute;n</option>
 			</select><br />
-			Ingresa tu primer n&uacute;mero:<br />
+			Ingresa tu primer numero:<br />
 			<input type="text" name="valor1"><br />
-			Ingresa tu segundo valor:<br />
+			Ingresa tu segundo numero:<br />
 			<input type="text" name="valor2"><br>
 			<input type="reset" value="Borrar">
 			<input type="submit" value="Enviar">
