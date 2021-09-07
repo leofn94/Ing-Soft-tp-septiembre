@@ -14,7 +14,6 @@
 			<input type="text" name="valor1"><br />
 			Ingresa tu segundo numero:<br />
 			<input type="text" name="valor2"><br>
-			<input type="reset" value="Borrar">
 			<input type="submit" value="Enviar">
 		</form>
 	</body>
