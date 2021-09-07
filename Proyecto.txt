@@ -1,2 +1,5 @@
 El objetivo de este programa es darle la bienvenida al usuario
-por default con un mensaje agradable personalizado
+por default con un mensaje agradable personalizado( V1.0)
+
+Se cambio el objetivo de este programa por el siguiente:
+Crear una calculadora que sume y reste
