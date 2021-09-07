@@ -1,0 +1,2 @@
+El objetivo de este programa es darle la bienvenida al usuario
+por default con un mensaje agradable personalizado
